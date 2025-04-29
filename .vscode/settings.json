@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "speedstarmotors",
+    "typescript.suggest.classMemberSnippets.enabled": false,
+    "typescript.suggest.enabled": false,
+    "typescript.suggest.objectLiteralMethodSnippets.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
